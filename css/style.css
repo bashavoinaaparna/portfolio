@@ -506,11 +506,13 @@ a:focus {
 
 .education .col-md-6:first-child .edu-col {
     padding-top: 0;
+    display:flex;
 }
 
 .education .col-md-6:last-child .edu-col {
     border-bottom: none;
     padding-bottom: 0;
+    display:flex;
 }
 
 @media (min-width: 768px) {
