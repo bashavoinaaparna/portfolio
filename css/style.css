@@ -494,6 +494,7 @@ a:focus {
     padding: 60px 30px;
     background: #ffffff;
     border-bottom: 30px solid #F6D155;
+    display:flex;
 }
 
 .education .edu-col {
@@ -502,7 +503,7 @@ a:focus {
     padding: 20px 0 20px 20px;
     border-left: 1px solid #FF6F61;
     border-bottom: 1px solid #FF6F61;
-    display:flex;
+
 }
 
 .education .col-md-6:first-child .edu-col {
